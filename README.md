@@ -1,0 +1,1 @@
+# webpack-issue-12483-file-loader

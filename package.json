@@ -1,0 +1,13 @@
+{
+  "name": "my-webpack-project",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "watch": "webpack -c webpack.config.js --watch"
+  },
+  "devDependencies": {
+    "file-loader": "6.2.0",
+    "webpack": "5.17.0",
+    "webpack-cli": "4.4.0"
+  }
+}
